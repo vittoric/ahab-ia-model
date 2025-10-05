@@ -1,8 +1,7 @@
 
   # Ahab
 
-  This is a code bundle for Ahab. The original project is available at https://www.figma.com/design/9DxUnHluLrT5QlVo5bHp9d/Ahab.
-
+  This is a code bundle for Ahab. Vercel Link: https://ahab-ia-model-bjnd5rnb5-toris-projects-471cea9a.vercel.app/
   ## Running the code
 
   Run `npm i` to install the dependencies.
