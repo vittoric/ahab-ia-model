@@ -1,0 +1,34 @@
+# Dependencies
+/node_modules
+/package-lock.json
+/yarn.lock
+/npm-debug.log*
+
+# Build output
+/dist
+/build
+.vite
+
+# Local environment variables
+.env
+.env.local
+.env.*.local
+
+# Vercel deployment ignores (Optional, but good practice)
+.vercel/
+
+# TypeScript files
+*.tsbuildinfo
+
+# Logs and temporary files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+lerna-debug.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Optional: Source Map files, if they are not needed for deployment/debugging
+# *.map
